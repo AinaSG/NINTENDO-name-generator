@@ -1,2 +1,2 @@
 # NINTENDO-name-generator
-This generates names for new (and old) NINTENDO consoles
+This generates names ideas for new (and old) NINTENDO consoles
