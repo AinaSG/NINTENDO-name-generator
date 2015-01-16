@@ -9,7 +9,8 @@ void promote(vector<bool> v){
 	for (int i = 0; i < 8; ++i){
 		if (v[i]) cout << ideas[i] << " ";
 	}
-	cout << "!" << endl;
+	//cout << "!" << endl;
+	cout << endl;
 }
 
 void we_need_a_new_machine(int g, vector<bool> v){
